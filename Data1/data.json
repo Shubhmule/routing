@@ -1,0 +1,40 @@
+{
+  "Student": [
+    {
+      "id": 1,
+      "name": "shubham",
+      "subject": "sci",
+      "rollno": 101
+    },
+    {
+      "id": 2,
+      "name": "vaibhav",
+      "subject": "Math",
+      "rollno": 102
+    },
+    {
+      "id": 3,
+      "name": "Rohit",
+      "subject": "java",
+      "rollno": 103
+    },
+    {
+      "id": 4,
+      "name": "Abhishek",
+      "subject": "python",
+      "rollno": 104
+    },
+    {
+      "name": "nilesh",
+      "subject": "geoghraphy",
+      "rollno": "105",
+      "id": 5
+    },
+    {
+      "name": "hhjh",
+      "subject": "ook",
+      "rollno": "410",
+      "id": 6
+    }
+  ]
+}
